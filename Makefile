@@ -1,5 +1,5 @@
 # =================================
-# 🚀 MULTICLOUD E-COMMERCE MAKEFILE
+# MULTICLOUD E-COMMERCE MAKEFILE
 # =================================
 
 # Variables
